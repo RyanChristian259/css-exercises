@@ -9,3 +9,26 @@ img {
 }
 
 /* Code Under This Line */
+.short {
+  height: 100px;
+}
+
+.tall {
+height: 200px;
+}
+
+.outside{
+  height: 300px;
+}
+
+.inside {
+  height: 100%;
+}
+
+/*This CSS only makes the DIV as tall as the bottom half of the
+document so that doesn't  */
+/*.giant{
+  position: fixed;
+  height: 100%;
+  background-color: green;
+}*/
