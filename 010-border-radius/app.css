@@ -19,3 +19,29 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.full {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background: black;
+}
+
+.outline {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 2px solid black;
+  text-align: center;
+  line-height: 100px;
+}
+
+.post {
+  border-top-right-radius:3px;
+  border-bottom-right-radius:3px;
+  border-bottom-left-radius:3px;
+}
+
+
+
+
+

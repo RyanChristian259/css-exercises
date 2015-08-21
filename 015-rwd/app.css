@@ -16,20 +16,24 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+  width: 30%;
   float: left;
 }
 
 .posts {
-  width: 660px;
+  width: 70%;
   float: left;
   line-height: 1.5;
 }
 
 .post {
-  padding: 20px;
+  padding: 2%;
 }
 
 .post-title {
   font-size: 2rem;
+}
+
+img {
+  width: 90%;
 }

@@ -16,3 +16,31 @@ img {
   #222
   #7BBADE
 */
+.d {
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+  background: #7BBADE;
+}
+
+.c {
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+  background: #222;
+}
+
+.b {
+  margin: auto;
+  width: 90%;
+  padding: 10px;
+  background: #FF7050;
+}
+
+.a {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background: #FFED5D;
+
+}
